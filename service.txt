@@ -1,0 +1,17 @@
+20205668     Herbert        service booked           finished                                payed                                             
+         1                         psychological talk            no                                      no                                                
+         2                         clean the house               no                                      no                                                
+         3                         body check                    no                                      no                                                
+         4                         send daily goods              no                                      no                                                
+20205825     Obb            service booked           finished                                payed                                             
+         1                         clean the house               yes                                     yes                                               
+         2                         body check                    yes                                     yes                                               
+         3                         send daily goods              no                                      no                                                
+20205910     Yaksha         service booked           finished                                payed                                             
+         1                         psychological talk            no                                      no                                                
+         2                         body check                    no                                      no                                                
+         3                         send daily goods              no                                      no                                                
+20205936     Fox            service booked           finished                                payed                                             
+         1                         clean the house               no                                      no                                                
+         2                         psychological talk            no                                      no                                                
+         3                         body check                    no                                      no                                                
